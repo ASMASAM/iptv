@@ -1,2 +1,2 @@
-# iptv
-Pakistani TV Channels
+#IPTV
+List of TV Channels
